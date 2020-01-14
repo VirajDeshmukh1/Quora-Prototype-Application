@@ -1,0 +1,109 @@
+.left {
+  float: left;
+}
+
+.profileImgWrapper {
+  margin: 50px auto;
+  width: 60%;
+}
+.profile-lower ul {
+  padding: 20px;
+  color: rgb(0, 85, 182);
+  list-style-type: none;
+}
+.profile-lower ul li {
+  padding: 10px;
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  text-decoration-style: solid;
+}
+.profile-lower ul li a {
+  color: rgb(0, 142, 226);
+}
+
+.profile-upper {
+  padding: 20px;
+  border-bottom: 1px solid #c7cdd1;
+}
+
+.LogoutButtonWrapper .btn:hover {
+  border: 2px solid #0099ff;
+  cursor: pointer;
+}
+
+.hide {
+  position: fixed;
+  left: -500px;
+  transform: translate3d(0, 0, 0);
+  transition: left 0.4s;
+  transition-timing-function: linear;
+  background-color: #fff;
+  opacity: 1;
+  box-shadow: 1px #888888;
+  overflow-x: hidden;
+  overflow-y: auto;
+  z-index: 999;
+  width: 500px;
+  height: 1000px;
+}
+
+.show {
+  left: 100px;
+}
+.log {
+  text-align: center;
+  background-color: rgb(0, 85, 162);
+  border-color: rgb(0, 85, 162);
+  box-sizing: border-box;
+  margin: 10px;
+  padding: 10px;
+}
+.announcementList {
+  padding: 10px;
+  border: 0.5px solid;
+  border-color: rgb(199, 205, 209);
+  box-shadow: 0.7px;
+  margin: 10px auto;
+  background-color: white;
+}
+.center {
+  text-align: center;
+  margin: 0 0 0 100px;
+}
+
+/*quora */
+.edit-button {
+  position: absolute;
+  bottom: 18%;
+  left: 5%;
+  width: 100%;
+  background: transparent;
+  border: 0px;
+  color: white;
+  font-size: 11px;
+}
+.profileBoxWrapper {
+  position: relative;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0 0 16px 0;
+  padding: 0 0 16px 0;
+  border-bottom: 2px solid #e2e2e2;
+}
+
+.credflex i {
+  position: absolute;
+  right: 0;
+  bottom: 10px;
+  display: inherit;
+}
+
+.credflex a {
+  color: #888888;
+}
+.credflex i:hover {
+  cursor: pointer;
+}

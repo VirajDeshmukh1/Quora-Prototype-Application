@@ -1,0 +1,69 @@
+.bg_container {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background: #fff;
+  background: url(//qsf.fs.quoracdn.net/-3-images.home.illo_1920.png-26-5ac607d989ef8067.png)
+    no-repeat center center fixed;
+}
+
+.login {
+  background: #fff;
+  border: 1px solid #e2e2e2;
+  box-shadow: 0 0 5px #888;
+  border-radius: 4px;
+  padding-top: 10px;
+  width: 650px;
+  height: 600px;
+  position: absolute;
+  bottom: initial;
+  left: 0;
+  right: 0;
+  margin: auto;
+  overflow-y: hidden;
+  top: 8%;
+  text-align: center;
+}
+
+h1 {
+  font-weight: 900;
+  font-size: 8rem;
+  color: #b92b27;
+  font-family: "q_serif", Georgia, Times, "Times New Roman",
+    "Hiragino Kaku Gothic Pro", "Meiryo", serif;
+}
+
+h4 {
+  font-size: 19px;
+  color: #949494;
+  margin: 8px 0 32px;
+  font-family: "q_serif", Georgia, Times, "Times New Roman",
+    "Hiragino Kaku Gothic Pro", "Meiryo", serif;
+}
+
+label {
+  font-size: 11px;
+  color: #666;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  font-weight: bold;
+  display: block;
+  margin-bottom: 15px;
+}
+
+.form-control {
+  width: 100%;
+  border: 1px solid #666;
+  margin-bottom: 10px;
+  
+}
+
+.error {
+  color: red;
+  display: grid;
+}
+
+.btn {
+  margin-bottom: 30px;
+  margin-top: 50px;
+}
