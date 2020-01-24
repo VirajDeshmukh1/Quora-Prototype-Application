@@ -21,8 +21,10 @@ The development of the project consists of multiple phases wherein, we started w
 
    | Name                           |              Email ID                 | 
    |--------------------------------|---------------------------------------|
-   | *Laxmikant Bhaskar Pandhare* |   laxmikantbhaskar.pandhare@sjsu.edu  |
-   | *Tosha Kamath*               |      toshasudhir.kamath@sjsu.edu      |
+   | *Laxmikant Bhaskar Pandhare*   |   laxmikantbhaskar.pandhare@sjsu.edu  |
+   | *Kalyani Anil Jawanjal*        |   kalyanianil.jawanjal@sjsu.edu       |
+   | *Viraj Arun Deshmukh*          |   virajarun.deshmukh@sjsu.edu         |
+   |--------------------------------|---------------------------------------|
    
 
 ## High Level Design Diagram
