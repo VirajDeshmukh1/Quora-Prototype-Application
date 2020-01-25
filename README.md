@@ -62,7 +62,7 @@ A glimpse of the application
 
 #### Dashboard.
 
-![alt text](https://github.com/laxmikantbpandhare/Quora-Prototype-Application/blob/master/images/Dashboard.png)
+![alt text](https://github.com/VirajDeshmukh1/Quora-Prototype-Application/blob/master/images/Dashboard.png)
 
 #### Profile Details.
 
