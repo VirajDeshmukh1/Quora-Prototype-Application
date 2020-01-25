@@ -24,7 +24,6 @@ The development of the project consists of multiple phases wherein, we started w
    | *Laxmikant Bhaskar Pandhare*   |   laxmikantbhaskar.pandhare@sjsu.edu  |
    | *Kalyani Anil Jawanjal*        |   kalyanianil.jawanjal@sjsu.edu       |
    | *Viraj Arun Deshmukh*          |   virajarun.deshmukh@sjsu.edu         |
-   |--------------------------------|---------------------------------------|
    
 
 ## High Level Design Diagram
@@ -55,11 +54,11 @@ A glimpse of the application
 
 #### Signup by user.
 
-![alt text](https://github.com/laxmikantbpandhare/Quora-Prototype-Application/blob/master/images/Signup.png)
+![alt text](https://github.com/VirajDeshmukh1/Quora-Prototype-Application/blob/master/images/Signup.png)
 
 #### Login by user.
 
-![alt text](https://github.com/laxmikantbpandhare/Quora-Prototype-Application/blob/master/images/Login%20in%20image.png)
+![alt text](https://github.com/VirajDeshmukh1/Quora-Prototype-Application/blob/master/images/Login%20in%20image.png)
 
 #### Dashboard.
 
