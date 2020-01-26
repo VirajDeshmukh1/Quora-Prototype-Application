@@ -66,7 +66,7 @@ A glimpse of the application
 
 #### Profile Details.
 
-![alt text](https://github.com/laxmikantbpandhare/Quora-Prototype-Application/blob/master/images/Profile%20Details.png)
+![alt text](https://github.com/VirajDeshmukh1/Quora-Prototype-Application/blob/master/images/Profile%20Details.png)
 
 #### Edit Profile Details.
 
