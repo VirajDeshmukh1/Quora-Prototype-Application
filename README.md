@@ -74,7 +74,7 @@ A glimpse of the application
 
 #### Profile Credentials.
 
-![alt text](https://github.com/laxmikantbpandhare/Quora-Prototype-Application/blob/master/images/Profile%20Credentials.png)
+![alt text](https://github.com/VirajDeshmukh1/Quora-Prototype-Application/blob/master/images/Profile%20Credentials.png)
 
 #### Post your Question.
 
