@@ -70,7 +70,7 @@ A glimpse of the application
 
 #### Edit Profile Details.
 
-![alt text](https://github.com/laxmikantbpandhare/Quora-Prototype-Application/blob/master/images/Profile%20Personal%20Details.png)
+![alt text](https://github.com/VirajDeshmukh1/Quora-Prototype-Application/blob/master/images/Profile%20Personal%20Details.png)
 
 #### Profile Credentials.
 
