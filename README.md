@@ -78,7 +78,7 @@ A glimpse of the application
 
 #### Post your Question.
 
-![alt text](https://github.com/laxmikantbpandhare/Quora-Prototype-Application/blob/master/images/post%20your%20question.png)
+![alt text](https://github.com/VirajDeshmukh1/Quora-Prototype-Application/blob/master/images/post%20your%20question.png)
 
 #### Share link with the Post.
 
