@@ -86,7 +86,7 @@ A glimpse of the application
 
 #### Search.
 
-![alt text](https://github.com/laxmikantbpandhare/Quora-Prototype-Application/blob/master/images/Search.png)
+![alt text](https://github.com/VirajDeshmukh1/Quora-Prototype-Application/blob/master/images/Search.png)
 
 #### messages.
 
