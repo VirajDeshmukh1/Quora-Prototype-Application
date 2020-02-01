@@ -94,7 +94,7 @@ A glimpse of the application
 
 #### Your Content Page.
 
-![alt text](https://github.com/laxmikantbpandhare/Quora-Prototype-Application/blob/master/images/your%20content%20page.png)
+![alt text](https://github.com/VirajDeshmukh1/Quora-Prototype-Application/blob/master/images/your%20content%20page.png)
 
 #### Graphs - Most Downvoted Answer.
 
