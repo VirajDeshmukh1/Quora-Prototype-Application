@@ -90,7 +90,7 @@ A glimpse of the application
 
 #### messages.
 
-![alt text](https://github.com/laxmikantbpandhare/Quora-Prototype-Application/blob/master/images/messages.png)
+![alt text](https://github.com/VirajDeshmukh1/Quora-Prototype-Application/blob/master/images/messages.png)
 
 #### Your Content Page.
 
