@@ -98,7 +98,7 @@ A glimpse of the application
 
 #### Graphs - Most Downvoted Answer.
 
-![alt text](https://github.com/KalyaniJawanjal-design/Quora-Prototype-Application/blob/master/images/Graph%20Moost%20doownvotes%20answer.png)
+![alt text](https://github.com/VirajDeshmukh1/Quora-Prototype-Application/blob/master/images/Graph%20Moost%20doownvotes%20answer.png)
 
 #### Graphs - Most Viewed Question.
 
