@@ -102,7 +102,7 @@ A glimpse of the application
 
 #### Graphs - Most Viewed Question.
 
-![alt text](https://github.com/laxmikantbpandhare/Quora-Prototype-Application/blob/master/images/Graphs%20Most%20Viewed%20Questions.png)
+![alt text](https://github.com/VirajDeshmukh1/Quora-Prototype-Application/blob/master/images/Graphs%20Most%20Viewed%20Questions.png)
 
 #### Graphs - Most upVoted Answer.
 
