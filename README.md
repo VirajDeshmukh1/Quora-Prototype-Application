@@ -106,7 +106,7 @@ A glimpse of the application
 
 #### Graphs - Most upVoted Answer.
 
-![alt text](https://github.com/laxmikantbpandhare/Quora-Prototype-Application/blob/master/images/Graphs%20Most%20upVotes%20Answers.png)
+![alt text](https://github.com/VirajDeshmukh1/Quora-Prototype-Application/blob/master/images/Graphs%20Most%20upVotes%20Answers.png)
 
 
 
