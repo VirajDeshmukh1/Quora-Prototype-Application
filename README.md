@@ -116,7 +116,7 @@ A glimpse of the application
 
 ![alt text](https://github.com/VirajDeshmukh1/Quora-Prototype-Application/blob/master/images/test%20case%20images%202.png)
 
-![alt text](https://github.com/laxmikantbpandhare/Quora-Prototype-Application/blob/master/images/test%20case%20images%201.png)
+![alt text](https://github.com/VirajDeshmukh1/Quora-Prototype-Application/blob/master/images/test%20case%20images%201.png)
 
 ![alt text](https://github.com/laxmikantbpandhare/Quora-Prototype-Application/blob/master/images/test%20case%20images%203.png)
 
