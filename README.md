@@ -134,7 +134,7 @@ A glimpse of the application
 
 #### 300 concurrent users
 
-![alt text](https://github.com/laxmikantbpandhare/Quora-Prototype-Application/blob/master/images/test%20case%20images%208.png)
+![alt text](https://github.com/VirajDeshmukh1/Quora-Prototype-Application/blob/master/images/test%20case%20images%205.png)
 
 ![alt text](https://github.com/laxmikantbpandhare/Quora-Prototype-Application/blob/master/images/test%20case%20images%209.png)
 
