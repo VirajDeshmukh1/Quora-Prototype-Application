@@ -22,7 +22,6 @@ The development of the project consists of multiple phases wherein, we started w
    | Name                           |              Email ID                 | 
    |--------------------------------|---------------------------------------|
    | *Viraj Arun Deshmukh*          |   virajarun.deshmukh@sjsu.edu         |
-   | *Kalyani Anil Jawanjal*        |   kalyanianil.jawanjal@sjsu.edu       |
    |*Laxmikant Bhaskar Pandhare*    |   laxmikantbhaskar.pandhare@sjsu.edu  |
    
 
