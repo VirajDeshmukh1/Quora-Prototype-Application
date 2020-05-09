@@ -7,7 +7,7 @@
     "body-parser": "^1.18.3",
     "bootstrap": "^4.3.1",
     "glyphicons": "^0.2.0",
-    "jquery": "^2.1.4",
+    "jquery": "^3.5.0",
     "jsonwebtoken": "^8.5.0",
     "lodash": "^4.17.11",
     "mongodb": "^3.2.3",
