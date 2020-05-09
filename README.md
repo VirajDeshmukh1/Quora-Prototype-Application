@@ -12,7 +12,7 @@ The development of this project is completely based of the user needs. Through t
 
 One of the biggest reasons for developing this application is the user get the solution within short time and with proper explanation. Quora prototype application provides facility that user can ask the question and look the question from the Quora database. The search functionality of the application is developed in such a way that, user can search people, question and even topic within single search.
 
-Further, the use can answer any question if he/she is ware of the answer. The user also can comment on the answer given by other users. He can explain his views on respective answers. The Quora Prototype application provides this facility to help the user/client with minimal work.
+Further, the use can answer any question if he/she is ware of the answer. The user also can comment on the answer given by other users. He can explain his views on respective answers. The Quora Prototype application provides this facility to help the user/client with minimal work
 
 The development of the project consists of multiple phases wherein, we started with the initial login and signup part with inclusion of Redux for store management, passport for authentication and KAFKA as a message passing queue.
 
