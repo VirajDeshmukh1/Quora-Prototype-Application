@@ -15,7 +15,7 @@
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
     "kafka-node": "^4.1.1",
-    "mongoose": "^5.5.0",
+    "mongoose": "^5.7.5",
     "mysql": "^2.17.1"
   }
 }
