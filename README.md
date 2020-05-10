@@ -6,7 +6,7 @@ Quora is an question-and-answer website where questions are asked, answered, and
 
 The user mostly see the answer which has most up votes. Also, user can able to see his/her own answers and question. It requires client to register first and then proceed with his requirements. Also, verification of the user name is not required. This application is the similar prototype application of Quora. 
 
-The development of this project is completely based of the user needs. Through this user can able to see his own and old answers by year and sorted ascending or descending order. It also provides the functionality of extensive search through name, question or topic.
+development of this project is completely based of the user needs. Through this user can able to see his own and old answers by year and sorted ascending or descending order. It also provides the functionality of extensive search through name, question or topic.
 
 ## Introduction
 
